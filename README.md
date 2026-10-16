@@ -165,7 +165,7 @@ Cada notebook aborda un concepto, algoritmo, experimento o proyecto específico.
 
 ## Autor
 
-**Josué Santana Robledo Corona**
+**Santana Robledo**
 
 - GitHub: [santana-robledo](https://github.com/santana-robledo)
 - Repositorio de proyectos de posgrado: [Posgrado_Robotica_e_Inteligencia_Artificial](https://github.com/santana-robledo/Posgrado_Robotica_e_Inteligencia_Artificial)
